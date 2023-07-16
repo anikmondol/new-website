@@ -1,0 +1,23 @@
+nav > ul > li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+nav li > a{
+    text-decoration: none;
+}
+.copy{
+    text-align: center;
+    margin-top: 30px;
+}
+.header{
+    text-align: center;
+}
+.fi{
+    text-align: center;
+}
+*{
+    background-color: azure;
+    margin: 20px;
+}
